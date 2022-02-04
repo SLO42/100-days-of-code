@@ -8,3 +8,13 @@
 
 **Link(s) to work**
 1. [WebSocket Practice](https://github.com/SLO42/websocketPractice/tree/main)
+
+
+### Day 01: February, Thursday 
+
+**Today's Progress**: Advanced client to send custom text to server, and backend to send data to clients
+
+**Thoughts** lacking in time spent on this project, i hope to catch up more. Found some cool stuff while researching WebSockets. good to continue this path a little bit.
+
+**Link(s) to work**
+1. [WebSocket Practice](https://github.com/SLO42/websocketPractice/tree/main)
