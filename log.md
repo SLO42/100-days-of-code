@@ -18,3 +18,12 @@
 
 **Link(s) to work**
 1. [WebSocket Practice](https://github.com/SLO42/websocketPractice/tree/main)
+
+### Day 02: February, Friday 
+
+**Today's Progress**: Advanced client to include user. Updated messages to be json.
+
+**Thoughts** created some issues, soon to clear up.
+
+**Link(s) to work**
+1. [WebSocket Practice](https://github.com/SLO42/websocketPractice/tree/main)
