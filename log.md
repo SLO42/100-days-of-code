@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 00: February, Wednesday 
+### Day 00: February, Wednesday the 2nd
 
 **Today's Progress**: Created two servers, the client and backend for my practice with websockets and js.
 
@@ -10,7 +10,7 @@
 1. [WebSocket Practice](https://github.com/SLO42/websocketPractice/tree/main)
 
 
-### Day 01: February, Thursday 
+### Day 01: February, Thursday the 3rd
 
 **Today's Progress**: Advanced client to send custom text to server, and backend to send data to clients
 
@@ -19,7 +19,7 @@
 **Link(s) to work**
 1. [WebSocket Practice](https://github.com/SLO42/websocketPractice/tree/main)
 
-### Day 02: February, Friday 
+### Day 02: February, Friday the 4th
 
 **Today's Progress**: Advanced client to include user. Updated messages to be json.
 
@@ -27,3 +27,12 @@
 
 **Link(s) to work**
 1. [WebSocket Practice](https://github.com/SLO42/websocketPractice/tree/main)
+
+### Day 03: February, Saturday the 5th 
+
+**Today's Progress**: made no progress.
+
+**Thoughts** kinda crudy to miss a day so early on. I'll need to figure out my time management issues before too late.
+
+**Link(s) to work**
+1. none.
