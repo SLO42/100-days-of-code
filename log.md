@@ -36,3 +36,22 @@
 
 **Link(s) to work**
 1. none.
+
+### Day 04: February, Sunday the 6th 
+
+**Today's Progress**: Reformatted some of the backend code.
+
+**Thoughts** not very much progress was made. hmmm.. hope this doesnt progress like such. 
+
+**Link(s) to work**
+1. [WebSocket Practice](https://github.com/SLO42/websocketPractice/tree/main)
+
+### Day 05: February, Monday the 7th 
+
+**Today's Progress**: User intergration and notification stage 1
+
+**Thoughts** built a more useful ui to handle the dates and msgs. feeling much better after making big progress. not sure what to implement next. might move on to a new project later today.
+
+**Link(s) to work**
+1. [WebSocket Practice](https://github.com/SLO42/websocketPractice/tree/main)
+
