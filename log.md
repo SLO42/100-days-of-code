@@ -64,3 +64,21 @@
 **Link(s) to work**
 1. [WebSocket Practice](https://github.com/SLO42/websocketPractice/tree/main)
 
+### Day 07: February, Wednesday the 9th 
+
+**Today's Progress**: Installed ESlint to enforce code styles. 
+
+**Thoughts** not very many
+
+**Link(s) to work**
+1. [WebSocket Practice](https://github.com/SLO42/websocketPractice/tree/main)
+
+### Day 08: February, Thursday the 10th 
+
+**Today's Progress**: 
+
+**Thoughts** N/A
+
+**Link(s) to work**
+1. [WebSocket Practice](https://github.com/SLO42/websocketPractice/tree/main)
+
