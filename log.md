@@ -55,3 +55,12 @@
 **Link(s) to work**
 1. [WebSocket Practice](https://github.com/SLO42/websocketPractice/tree/main)
 
+### Day 06: February, Tuesday the 8th 
+
+**Today's Progress**: cleaned up code and started to remove unsued code. 
+
+**Thoughts** code maintanice is important and refactoring when necessary
+
+**Link(s) to work**
+1. [WebSocket Practice](https://github.com/SLO42/websocketPractice/tree/main)
+
