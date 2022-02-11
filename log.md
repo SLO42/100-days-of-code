@@ -75,10 +75,9 @@
 
 ### Day 08: February, Thursday the 10th 
 
-**Today's Progress**: 
+**Today's Progress**: Learned about go and played around in the go lab environment 
 
-**Thoughts** N/A
+**Thoughts** Looks like C, types like C, but object oriented? not sure yet. but i think this might be it.
 
 **Link(s) to work**
-1. [WebSocket Practice](https://github.com/SLO42/websocketPractice/tree/main)
-
+1.[Go.dev](https://go.dev/learn/)
