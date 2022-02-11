@@ -80,4 +80,4 @@
 **Thoughts** Looks like C, types like C, but object oriented? not sure yet. but i think this might be it.
 
 **Link(s) to work**
-1.[Go.dev](https://go.dev/learn/)
+1. [Go.dev](https://go.dev/learn/)
