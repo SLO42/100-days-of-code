@@ -81,3 +81,24 @@
 
 **Link(s) to work**
 1. [Go.dev](https://go.dev/learn/)
+
+### Day 09: February, Friday the 11th 
+
+**Today's Progress**: Read more on go and what to use it for.
+
+**Thoughts** Go feels familiar but also unique. need more practice before advanced usages 
+
+**Link(s) to work**
+1. [Hello World Go](https://github.com/SLO42/HelloWorld-Go)
+
+### Day 10: February, Saturday the 12th 
+
+**Today's Progress**: built with Go; going back to JS, doing a TypeScript websocket server for an idle-like game
+
+**Thoughts** Going Fast.
+
+**Link(s) to work**
+1. [Hello World Go](https://github.com/SLO42/HelloWorld-Go)
+2. ...TBA
+
+
