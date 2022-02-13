@@ -99,6 +99,6 @@
 
 **Link(s) to work**
 1. [Hello World Go](https://github.com/SLO42/HelloWorld-Go)
-2. ...TBA
+2. [New Clicker Game](https://github.com/SLO42/TypeScript_Clicker_Game)
 
 
