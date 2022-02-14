@@ -101,4 +101,13 @@
 1. [Hello World Go](https://github.com/SLO42/HelloWorld-Go)
 2. [New Clicker Game](https://github.com/SLO42/TypeScript_Clicker_Game)
 
+### Day 11: February, SuperBowl LVI Sunday the 12th 
+
+**Today's Progress**: Made some good progress on the clicker game. about to start caching the users credits(?) .  
+
+**Thoughts** feeling good about React knoweldge, learning lots more using typeScript. just but using VSCode I learn by looking up these types. I need to do some ui work... great.
+
+**Link(s) to work**
+1. [New Clicker Game](https://github.com/SLO42/TypeScript_Clicker_Game)
+
 
