@@ -119,7 +119,7 @@
 **Link(s) to work**
 1. [Hatchways Project](https://github.com/SLO42/backend-assessment-NodejsExpress)
 
-### Day 13: February, Valintine's Monday the 14th 
+### Day 13: February, Tuesday the 14th 
 
 **Today's Progress**: made acutal progress on hatchways. building the application and added ESlint
 
