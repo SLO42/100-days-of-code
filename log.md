@@ -110,4 +110,21 @@
 **Link(s) to work**
 1. [New Clicker Game](https://github.com/SLO42/TypeScript_Clicker_Game)
 
+### Day 12: February, Valintine's Monday the 13th 
+
+**Today's Progress**: started Hatchways backend assessment, feeling challenged.
+
+**Thoughts** started out easy, started to feel more challenged
+
+**Link(s) to work**
+1. [Hatchways Project](https://github.com/SLO42/backend-assessment-NodejsExpress)
+
+### Day 13: February, Valintine's Monday the 14th 
+
+**Today's Progress**: made acutal progress on hatchways. building the application and added ESlint
+
+**Thoughts** fun and challenged. lack of motivation earlier today. but doing better... 
+
+**Link(s) to work**
+1. [Hatchways Project](https://github.com/SLO42/backend-assessment-NodejsExpress)
 
