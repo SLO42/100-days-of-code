@@ -101,7 +101,7 @@
 1. [Hello World Go](https://github.com/SLO42/HelloWorld-Go)
 2. [New Clicker Game](https://github.com/SLO42/TypeScript_Clicker_Game)
 
-### Day 11: February, SuperBowl LVI Sunday the 12th 
+### Day 11: February, SuperBowl LVI Sunday the 13th 
 
 **Today's Progress**: Made some good progress on the clicker game. about to start caching the users credits(?) .  
 
@@ -110,7 +110,7 @@
 **Link(s) to work**
 1. [New Clicker Game](https://github.com/SLO42/TypeScript_Clicker_Game)
 
-### Day 12: February, Valintine's Monday the 13th 
+### Day 12: February, Valintine's Monday the 14th 
 
 **Today's Progress**: started Hatchways backend assessment, feeling challenged.
 
@@ -119,7 +119,7 @@
 **Link(s) to work**
 1. [Hatchways Project](https://github.com/SLO42/backend-assessment-NodejsExpress)
 
-### Day 13: February, Tuesday the 14th 
+### Day 13: February, Tuesday the 15th 
 
 **Today's Progress**: made acutal progress on hatchways. building the application and added ESlint
 
@@ -127,4 +127,40 @@
 
 **Link(s) to work**
 1. [Hatchways Project](https://github.com/SLO42/backend-assessment-NodejsExpress)
+
+### Day 14: February, Wednesday the 16th 
+
+**Today's Progress**: almost completed Hatchways assessment.. 
+
+**Thoughts** feeling challenged
+
+**Link(s) to work**
+1. [Hatchways Project](https://github.com/SLO42/backend-assessment-NodejsExpress)
+
+
+### Day 15: February, Thursday the 17th 
+
+**Today's Progress**: Completed Hatchways Backend assessment. finally.
+
+**Thoughts** Feeling awesome. challenge felt good and the final product feels light weight and strong. im liking my changes.
+
+**Link(s) to work**
+1. [Hatchways Project](https://github.com/SLO42/backend-assessment-NodejsExpress)
+
+### Day 16: February, Friday the 18th 
+
+**Today's Progress**: Minmal - if any.
+
+**Thoughts** Got my results back from Hatchways, Basically saying that it was completed to the specifications, but it wasnt perfectly done fast enough. hmmmm also i cached my axios requests via http headers yet that doesnt count as caching, do i not understand something?
+
+### Day 16: February, Saturday the 19th 
+
+**Today's Progress**: Building backend for React app. still working on LinkedIn Reach program.
+
+**Thoughts** very much struggling on answering the written questions of the application. I have to turn it in this week... feeling pressure.
+
+**Link(s) to work**
+1. [New Clicker Game](https://github.com/SLO42/TypeScript_Clicker_Game)
+
+
 
