@@ -162,5 +162,23 @@
 **Link(s) to work**
 1. [New Clicker Game](https://github.com/SLO42/TypeScript_Clicker_Game)
 
+### Day 17: February, Sunday the 20th 
+
+**Today's Progress**: Spent today cleaning up submission to LinkedIn Reach. and some docker stuff
+
+**Thoughts** feeling the struggle of needing to use more up to date frameworks... looking at you docker-container
+
+**Link(s) to work**
+1. [New Clicker Game](https://github.com/SLO42/TypeScript_Clicker_Game)
+
+### Day 18: February, Monday the 21st 
+
+**Today's Progress**: getting redis and postgres setup
+
+**Thoughts** Trying to get the stuff i know in first then move the other stuff.
+
+**Link(s) to work**
+1. [New Clicker Game](https://github.com/SLO42/TypeScript_Clicker_Game)
+
 
 
