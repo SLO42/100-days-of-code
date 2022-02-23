@@ -153,7 +153,7 @@
 
 **Thoughts** Got my results back from Hatchways, Basically saying that it was completed to the specifications, but it wasnt perfectly done fast enough. hmmmm also i cached my axios requests via http headers yet that doesnt count as caching, do i not understand something?
 
-### Day 16: February, Saturday the 19th 
+### Day 17: February, Saturday the 19th 
 
 **Today's Progress**: Building backend for React app. still working on LinkedIn Reach program.
 
@@ -162,7 +162,7 @@
 **Link(s) to work**
 1. [New Clicker Game](https://github.com/SLO42/TypeScript_Clicker_Game)
 
-### Day 17: February, Sunday the 20th 
+### Day 18: February, Sunday the 20th 
 
 **Today's Progress**: Spent today cleaning up submission to LinkedIn Reach. and some docker stuff
 
@@ -171,7 +171,7 @@
 **Link(s) to work**
 1. [New Clicker Game](https://github.com/SLO42/TypeScript_Clicker_Game)
 
-### Day 18: February, Monday the 21st 
+### Day 19: February, Monday the 21st 
 
 **Today's Progress**: getting redis and postgres setup
 
@@ -180,5 +180,12 @@
 **Link(s) to work**
 1. [New Clicker Game](https://github.com/SLO42/TypeScript_Clicker_Game)
 
+### Day 20: February, Tuesday the 22nd 
 
+**Today's Progress**: flushing out user auth and database usage.
+
+**Thoughts** getting more indepth with everything available to me. trying to get this out quickly. shouldnt rush tho.
+
+**Link(s) to work**
+1. [New Clicker Game](https://github.com/SLO42/TypeScript_Clicker_Game)
 
