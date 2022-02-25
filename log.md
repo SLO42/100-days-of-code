@@ -189,3 +189,22 @@
 **Link(s) to work**
 1. [New Clicker Game](https://github.com/SLO42/TypeScript_Clicker_Game)
 
+### Day 21: February, Wednesday the 23rd 
+
+**Today's Progress**: um i think i cleaned up express stuff and made requests
+
+**Thoughts** forgot to write this yesterday.
+
+**Link(s) to work**
+1. [Clicker App FullStack](https://github.com/SLO42/Clicker-App-FullStack)
+
+### Day 22: February, Thursday the 24th 
+
+**Today's Progress**: spent today better cleaning up google auth integration on the front and backend. also seperated the client from the server and created submodules in a parent repo @ https://github.com/SLO42/Clicker-App-FullStack
+
+**Thoughts** Feeling challenged by git but after tackling it, i feel good!
+
+**Link(s) to work**
+1. [New Clicker Game: Now includes Client & Server](https://github.com/SLO42/Clicker-App-FullStack) 
+
+
