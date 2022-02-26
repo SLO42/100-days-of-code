@@ -207,4 +207,13 @@
 **Link(s) to work**
 1. [New Clicker Game: Now includes Client & Server](https://github.com/SLO42/Clicker-App-FullStack) 
 
+### Day 23: February, Friday the 25th 
+
+**Today's Progress**: Spent today working with CircleCi and Heroku to implement CI/CD successfully. now to add tests to the database and redis usages.
+
+**Thoughts** feeling a little pooped, sometimes I forget how large a full stack appliaction actually is. these things can get massive fast!
+
+**Link(s) to work**
+1. [Most of my work is here on the server](https://github.com/SLO42/Clicker-App-Server)
+
 
