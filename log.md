@@ -234,4 +234,15 @@
 **Link(s) to work**
 1. [Most of my work is here on the server](https://github.com/SLO42/Clicker-App-Server)
 
+### Day 26: February, Monday the 28th 
+
+**Today's Progress**: Started to transition to Nextjs, also worked on cleaning up auth code and managing state/local storage.
+
+**Thoughts** feeling the burden of taking on a large project alone. also now i want to become a SRE (site reliabilty engineer) so thats my new goal. after this i mean.
+
+**Link(s) to work**
+1. [Server](https://github.com/SLO42/Clicker-App-Server)
+2. [Client](https://github.com/SLO42/Clicker-App-Client)
+
+
 
