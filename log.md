@@ -216,4 +216,22 @@
 **Link(s) to work**
 1. [Most of my work is here on the server](https://github.com/SLO42/Clicker-App-Server)
 
+### Day 24: February, Saturday the 26th 
+
+**Today's Progress**: Spent the day working on swagger docs for the api, and some work trying to get auth to work.
+
+**Thoughts** feeling overwhelmed, slow things down and split code. code-split? i dont remember. but thats what i should do.
+
+**Link(s) to work**
+1. [Most of my work is here on the server](https://github.com/SLO42/Clicker-App-Server)
+
+### Day 25: February, Sunday the 27th 
+
+**Today's Progress**: Found an issue, probably due to not running the docker containers. will need to confirm.
+
+**Thoughts** login should be working... but will confirm soon.
+
+**Link(s) to work**
+1. [Most of my work is here on the server](https://github.com/SLO42/Clicker-App-Server)
+
 
