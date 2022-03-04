@@ -244,5 +244,34 @@
 1. [Server](https://github.com/SLO42/Clicker-App-Server)
 2. [Client](https://github.com/SLO42/Clicker-App-Client)
 
+### Day 27: March, Tuesday the 1st
+
+**Today's Progress**: started working on swagger docs to help simplify backend apu
+
+**Thoughts** learning lots of new things is crazy for the brain.
+
+**Link(s) to work**
+1. [Server](https://github.com/SLO42/Clicker-App-Server)
+2. [Client](https://github.com/SLO42/Clicker-App-Client)
+
+### Day 28: March, Wednesday the 2nd
+
+**Today's Progress**: making progress on next frontend and swagger on the backend
+
+**Thoughts** feeling all over the place with the things needing to get cleaned up and error checking. also fixing error messages. and replacing ensure...
+
+**Link(s) to work**
+1. [Server](https://github.com/SLO42/Clicker-App-Server)
+2. [Client](https://github.com/SLO42/Clicker-App-Client)
+
+### Day 29: March, Thursday the 3rd
+
+**Today's Progress**: switched to express-swagger-jsdoc for easier and more clear definitions
+
+**Thoughts** feeling all over the place with the things needing to get cleaned up and error checking. also fixing error messages. and replacing ensure...
+
+**Link(s) to work**
+1. [Server](https://github.com/SLO42/Clicker-App-Server)
+2. [Client](https://github.com/SLO42/Clicker-App-Client)
 
 
