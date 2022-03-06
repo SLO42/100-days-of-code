@@ -3,7 +3,8 @@
 ## Contents
 
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - click here to see the first 30 days of progress](log.md)
+* [Log2 - click here to see my recent progress](log2.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
