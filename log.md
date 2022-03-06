@@ -274,4 +274,16 @@
 1. [Server](https://github.com/SLO42/Clicker-App-Server)
 2. [Client](https://github.com/SLO42/Clicker-App-Client)
 
+### Day 30: March, Friday the 4th
 
+**Today's Progress**: Started to make sure routes are working as intended, aka building tests and flushing out registrations.
+
+**Thoughts** Feeling like its time to take tests seriously.
+
+**Link(s) to work**
+1. [Server](https://github.com/SLO42/Clicker-App-Server)
+2. [Client](https://github.com/SLO42/Clicker-App-Client)
+
+
+
+## NEXT LOG IS IN [log2.md](https://github.com/SLO42/100-days-of-code/main/log2.md)
